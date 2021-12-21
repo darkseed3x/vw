@@ -1,0 +1,5 @@
+telegram:
+  #Имя бота
+  username: ${BOT_NAME}
+  #Токен бота
+  token: ${BOT_TOKEN}
